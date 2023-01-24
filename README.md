@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Taigen. But online I go by Varefox.
-- 👀 I’m 30 years old and my interests are in coding, music, and gaming.
-- 🌱 Currently, I am working on a project portfolio to show off my skills as a developer.
+- 👀 I’m 30 years old from Spokane, Washington, and my interests are in coding, music, and gaming.
+- 🌱 I am actively seeking work and ready to start immediately!
 - 💞️ I hope to find a job in web or software development.
-- 📫 I'm easily reached at taigengraham@gmail.com
+- 📫 I'm easily reached at varefox@gmail.com
 
 <!---
 Varefox/Varefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
